@@ -57,8 +57,8 @@ As a user should;
 
 #### License and Copyright Information
 
-Copyright 2023 Paul Wanyoike Ngugi Licensed under [MT License]('https://github.com/Paul-ike/pizzas-restaurants/blob/master/LICENSE')
+Copyright 2023 Paul Wanyoike Ngugi Licensed under [MT License](https://github.com/Paul-ike/pizzas-restaurants/blob/master/LICENSE)
 
 #### Video Link
 
-[![Watch the video](video)]('https://drive.google.com/file/d/1uj1DE4E5SzzTiO0MZQV7qAgIAej-U-qs/view')
+[![Watch the video](video)](https://drive.google.com/file/d/1uj1DE4E5SzzTiO0MZQV7qAgIAej-U-qs/view)
