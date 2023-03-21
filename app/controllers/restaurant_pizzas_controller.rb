@@ -3,7 +3,7 @@ class RestaurantPizzasController < ApplicationController
         restaurant_pizza = RestaurantPizza.new(restaurant_pizza_params)
         
         if restaurant_pizza.save
-          render json: restaurant_pizza, status: :created
+          render json: restaurant_pizza.pizza.slice(:id, :name, :ingredients), status: :created
         else
           render json: { errors: restaurant_pizza.errors.full_messages }, status: :unprocessable_entity
         end
